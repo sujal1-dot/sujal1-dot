@@ -1,6 +1,10 @@
 # 💫 About Me:
-I'm Sujal, a 20-year-old Student  from kolhapur, India. I'm not so expert in building this projects. But im still gonna start  build  projects that are useful for me as well as other also. <br>
+<b> Heyy👋🏻 I'm Sujal, a 20-year-old Student  from kolhapur, India. I'm not so expert in building projects. But im still gonna start to build  projects that are useful for me as well as other also. <br>
+</b>
 
+<b>
+I'll try my best to build something that will be useful for everyone🙂. <br>
+</b>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thee_soultaker) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sujal.sutar_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalsutar08@gmail.com) 
@@ -12,7 +16,9 @@ I'm Sujal, a 20-year-old Student  from kolhapur, India. I'm not so expert in bui
 ![](https://streak-stats.demolab.com/?user=sujal1-dot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sujal1-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+## 💭 Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> [!TIP]
+> **"The world has changed and none of us can go back. All we can do is our best, and sometimes the best that we can do is to start over."**
+>
+><p align="center"><b>-Peggy Carter, Captain America ^_^ </b></p>
