@@ -22,3 +22,5 @@ I'll try my best to build something that will be useful for everyone🙂. <br>
 > **"The world has changed and none of us can go back. All we can do is our best, and sometimes the best that we can do is to start over."**
 >
 ><p align="center"><b>-Peggy Carter, Captain America ^_^ </b></p>
+
+![snake gif](https://github.com/sujal1-dot/sujal1-dot/blob/output/github-snake-dark.svg)
